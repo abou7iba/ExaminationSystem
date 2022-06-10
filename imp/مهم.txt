@@ -1,0 +1,15 @@
+admin :-
+NID : 00000000000000
+Pass : 0000
+Pincode : 5555
+
+teacher :-
+NID  : 28504040000000
+Pass : drayman2023
+PinCode : 4499
+
+student :-
+Mobile : 01000000000
+sitting number : 0000
+From 1 To 10
+Example : 11111111111111 to 10101010101010

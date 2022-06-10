@@ -1,0 +1,51 @@
+.addexam{
+    position: absolute;
+    top: 50%;
+    margin: auto;
+    right: 5%;
+    left: 5%;
+}
+input{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #1a73e8;
+    border-radius: 5px;
+    background: none;
+    width: 80%;
+    display: block;
+    color: #1a73e8;
+    font-weight: bold;
+}
+input::placeholder{
+    color: #1a73e8;
+}
+.btnaddexam{
+    
+}
+label{
+    color: #203239;
+    font-size: 16px;
+    font-weight: bold;
+}
+input:focus{
+    outline: none;
+}
+.selection{
+    width: 80%;
+    padding: 4px;
+    margin: 4px;
+    color: #1a73e8;
+    outline: none;
+    border: 1px solid #1a73e8;
+    font-weight: bold ;
+}
+input[type=submit]{
+    background-color: #1a73e8;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: auto;
+    cursor: pointer;
+  }

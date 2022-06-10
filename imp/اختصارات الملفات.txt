@@ -1,0 +1,5 @@
+p = pages
+t = teacher
+d = dashboard
+s = student
+a = admin
